@@ -5,7 +5,8 @@
 4.输入“git remote add origin https://github.com/shench5612390/Test.git”（git remote add origin 你自己的https地址），连接你的guthub仓库。
 5.输入“git push -u origin master”，上传项目到Github。这里会要求输入Github的账号密码，按要求输入就可以。
 
-
+本地 - 远程不关联的文件合并
+git pull origin master --allow-unrelated-histories
 
 账号：https://github.com/jgt18611964034/Test.git
 密码：jgt20160709wyp
